@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    color: white;
+    font: 1em sans-serif;
+    padding: 30px;
+}
+
+.button{
+    width: 9%;;
+    height: 30px;
+}
+#button3{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+
+#currCount{
+    width: fit-content;
+    border-bottom: 1px solid white;
+    padding: 10px;
+}
+
+#error{
+    color: red;
+}
